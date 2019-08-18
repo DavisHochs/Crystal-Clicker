@@ -1,0 +1,23 @@
+body {
+    background-image: url("http://kaialtair.com/wp-content/uploads/2013/11/tumblr_mwscnxUB7A1rh0wd5o4_1280.jpg");
+    background-size: auto;
+}
+h1, h2, h3{
+    text-align: center;
+    background-color: white;
+
+}
+.row {
+    
+    width: max-content;
+    height: max-content;
+    margin: 0 auto;
+    
+}
+.clickers {
+    display: inline-block;
+    background-color: white;
+}
+.break {
+    height: 50px;
+}
